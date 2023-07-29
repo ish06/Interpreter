@@ -9,7 +9,7 @@ Implemented an interpreter in Python for a language (Brewin) that supports the f
 * Polymorphism
 * Exception Handling <br />
 
-The file are as follows: <br />
+The files are as follows: <br />
 * intbase.py, the base class and enum definitions for the interpreter
 * bparser.py, a static parser class to parse Brewin programs
 * interpreterv3.py, which delegates work to:
